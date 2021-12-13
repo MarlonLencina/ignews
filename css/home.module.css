@@ -1,0 +1,41 @@
+.content_container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  height: calc(100vh - 5rem);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero {
+  max-width: 600px;
+}
+
+.hero > span {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.hero h1 {
+  font-weight: 900;
+  font-size: 4.5rem;
+  line-height: 4.5rem;
+  margin-top: 2.5rem;
+}
+
+.hero h1 span {
+  color: var(--blue);
+}
+
+.hero p {
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  font-weight: 500;
+}
+
+.hero p span {
+  font-weight: bold;
+  color: var(--blue);
+}
+/*# sourceMappingURL=home.module.css.map */

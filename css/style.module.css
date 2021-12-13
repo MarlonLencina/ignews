@@ -1,0 +1,45 @@
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.posts {
+  max-width: 720px;
+  margin: 5rem auto;
+}
+
+.posts a {
+  display: block;
+}
+
+.posts a + a {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--text);
+}
+
+.posts a time {
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  color: var(--text);
+}
+
+.posts a strong {
+  margin-top: 1rem;
+  line-height: 2rem;
+  font-size: 1.5rem;
+  display: block;
+  transition: 0.2s;
+}
+
+.posts a p {
+  color: var(--text);
+  margin-top: 0.5rem;
+  line-height: 1.5rem;
+}
+
+.posts a:hover strong {
+  color: var(--yellow);
+}
+/*# sourceMappingURL=style.module.css.map */

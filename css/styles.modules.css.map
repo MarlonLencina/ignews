@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAC;EACjB,MAAM,EAAE,IAAI;EACZ,MAAM,EAAE,CAAC;EACT,aAAa,EAAE,IAAI;EACnB,gBAAgB,EAAE,YAAY;EAC9B,OAAO,EAAE,MAAM;EACf,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,IAAI;EACjB,KAAK,EAAE,YAAY;CACpB",
+    "sources": [
+        "../src/components/signInButton/styles.modules.scss"
+    ],
+    "names": [],
+    "file": "styles.modules.css"
+}

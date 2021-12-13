@@ -1,0 +1,13 @@
+.button__container {
+  height: 3rem;
+  border: 0;
+  border-radius: 3rem;
+  background-color: var(--shape);
+  padding: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: var(--white);
+}
+/*# sourceMappingURL=styles.modules.css.map */
